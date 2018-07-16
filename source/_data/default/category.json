@@ -1,0 +1,26 @@
+{
+  "home": {
+    "name": "Home",
+    "url": "/"
+  },
+  "get_start": {
+    "name": "GetStarted",
+    "url": "/get_started/index.html"
+  },
+  "manual": {
+    "name": "Manual",
+    "url": "/manual/index.html"
+  },
+  "blog": {
+    "name": "Blog",
+    "url": "/blog/index.html"
+  },
+  "team":{
+    "name": "Team",
+    "url": "/team.html"
+  },
+  "about":{
+    "name": "About",
+    "url": "/about/index.html"
+  }
+}
