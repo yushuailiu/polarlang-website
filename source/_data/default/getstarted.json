@@ -1,15 +1,15 @@
 [{
   "text": "Install",
-  "key": "Install",
+  "key": "install",
   "children": [{
     "text": "Environment require",
-    "key": "Environment require"
+    "key": "environment-require"
   }]
 }, {
   "text": "Demo",
-  "key": "Demo",
+  "key": "demo",
   "children": [{
     "text": "Hello world",
-    "key": "Hello world"
+    "key": "hello-world"
   }]
 }]
